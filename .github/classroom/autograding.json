@@ -3,7 +3,7 @@
     {
       "name": "inst",
       "setup": "",
-      "run": "pip install -r requirements.txt",
+      "run": "pip install -r ./.github/workflows/requirements.txt",
       "input": "",
       "output": "",
       "comparison": "included",
